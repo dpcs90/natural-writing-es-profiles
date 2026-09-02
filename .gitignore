@@ -1,0 +1,6 @@
+skills/natural-writing-es-profiles/profiles/custom/
+skills/natural-writing-es-profiles/profiles/selection.json
+skills/natural-writing-es-profiles/samples/
+*.local.md
+__pycache__/
+*.pyc

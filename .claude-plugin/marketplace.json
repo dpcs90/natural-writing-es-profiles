@@ -1,0 +1,21 @@
+{
+  "name": "natural-writing-es-profiles",
+  "owner": {
+    "name": "dpcs90"
+  },
+  "metadata": {
+    "description": "Escritura natural con ámbitos y perfiles autorales privados",
+    "version": "2.0.0"
+  },
+  "plugins": [
+    {
+      "name": "natural-writing-es-profiles",
+      "description": "Alterna perfiles académicos, profesionales/comerciales y personales en variantes neutrales o personalizadas.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/natural-writing-es-profiles"
+      ]
+    }
+  ]
+}

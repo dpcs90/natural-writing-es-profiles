@@ -1,0 +1,15 @@
+interface:
+  display_name: Escritura natural ES · Perfiles
+  short_description: Alterna perfiles neutrales y autorales
+  default_prompt: Usa $natural-writing-es-profiles para redactar este texto con el
+    perfil académico neutral.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+  brand_color: '#263238'
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
